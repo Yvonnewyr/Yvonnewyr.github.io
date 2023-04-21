@@ -1,0 +1,55 @@
+html{
+    background-color: midnightblue;
+}
+div.title{
+    color: rgb(255, 255, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50pt;
+    font-weight: bold;
+}
+div.title-2{
+    color: blanchedalmond;
+    font-family: serif;
+    font-size: 25pt;
+}
+div.name{
+    color: blanchedalmond;
+    font-family: serif;
+    font-size: medium;
+    font-weight: bold;
+}
+div.body-1{
+    color: rgb(201, 229, 255);
+    font-family: sans-serif;
+    font-size: small;
+}
+div.body-2{
+    color: rgb(201, 229, 255);
+    font-family: sans-serif;
+    font-size: small;
+}
+div.body-3{
+    color: rgb(201, 229, 255);
+    font-family: sans-serif;
+    font-size: small;
+}
+div.body-4{
+    color: rgb(201, 229, 255);
+    font-family: sans-serif;
+    font-size: small;
+}
+div.body-5{
+    color: rgb(201, 229, 255);
+    font-family: sans-serif;
+    font-size: small;
+}
+div.body-6{
+    color: rgb(201, 229, 255);
+    font-family: sans-serif;
+    font-size: small;
+}
+div.body-7{
+    color: rgb(201, 229, 255);
+    font-family: sans-serif;
+    font-size: small;
+}
