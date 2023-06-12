@@ -1,7 +1,6 @@
 body{
     background-color:#4d4d4d;
-    font-size: 36px;
-    margin: 10px;
+    text-size-adjust: initial;
 }
 
 div.menu{
@@ -130,7 +129,6 @@ div.character {
 }
 
 
-
 div.col {
     outline: 2px solid cornflowerblue;
     height: 1000px;
@@ -165,13 +163,6 @@ div.width66{
     width: 66.666%;
 }
 
-div.textred{
-    color: red;
-}
-
-div.textwhite{
-    color: white;
-}
 
 div.width50{
     width: 50%;
